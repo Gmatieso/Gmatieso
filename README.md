@@ -3,11 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
-Gmatieso, Here
+👋 Gmatieso, Here
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- There's so much to see here. so take your time, look around, and learn all there is to know about Gmatieso work. I hope you enjoyed the repo and thank you for your Time and consideration. 
+- There's so much to see here. so take your time, look around, and learn all there is to know about Gmatieso work.💡 I hope you enjoyed the repo and thank you 🙏 for your Time and consideration. 
 
 
 <br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
