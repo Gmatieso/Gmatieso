@@ -10,11 +10,11 @@
 - There's so much to see here. so take your time, look around, and learn all there is to know about Gmatieso work.💡 I hope you enjoyed the repo and thank you 🙏 for your Time and consideration. 
 
 
-<br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://medium.com/@matiesogeoffrey"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" />
-</p>
+<p>Connect with me ?<p/>
+<p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p>
+<p align="left"><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p><a href="https://medium.com/@matiesogeoffrey"><img alt="Medium" src="https://skydoves.github.io/badges/Story-Medium.svg"/></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gmatieso&label=Profile%20views&color=0e75b6&style=flat" alt="Gmatieso" /> </p>
 
  
  <a href="https://calendar.app.google/BDMXxwvE2bsW8tdS7">MeetNow? 😁 Click Me 😊</a>
