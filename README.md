@@ -3,13 +3,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
-Geoffrey, Here
+Gmatieso, Here
 
 <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- 👨🏾‍💻 Currently working on Next.js,TypeScript,React, Python & Flask projects.
-- ✌🏾 Looking forward to collaborate with other FrontEnd Devs(Next.Js) & Backend projects.
-- 📫 I'm available to answer your tech related questions on any platform.
+- There's so much to see here. so take your time, look around, and learn all there is to know about Gmatieso work. I hope you enjoyed the repo and thank you for your Time and consideration. 
 
 
 <br>Connect with me ?<br/> <p align="left"> <a href="https://twitter.com/Gmatieso" target="blank"><img src="https://img.shields.io/twitter/follow/Gmatieso?logo=twitter&style=for-the-badge" alt="Gmatieso" /></a> </p><a href=https://www.linkedin.com/in/geoffreymatieso /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,11 +78,6 @@ Geoffrey, Here
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Gmatieso&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Gmatieso's GitHub | Languages Over Time](https://stats.quine.sh/Gmatieso/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gmatieso)
-[![Gmatieso's GitHub | Topics Over Time](https://stats.quine.sh/Gmatieso/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gmatieso)
-
- ## What am Listening...
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qx7815ce350k22x1y1dskujez&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
 
