@@ -56,7 +56,7 @@
 </td></tr></table>  
 
 <br/>  
-### &#x1f4c8; GitHub Stats
+ &#x1f4c8; GitHub Stats
 <center>
   <table>
     <tr>
